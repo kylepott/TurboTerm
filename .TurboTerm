@@ -1,4 +1,6 @@
 ###Alias Section
+alias fullscreenshot='xfce4-screenshooter -f'
+alias clipscreenshot='xfce4-screenshooter -r'
 alias list="ls -a"
 alias up="cd .."
 alias home="cd ~"
@@ -6,6 +8,7 @@ alias disk="cd /"
 alias back='cd "$OLDPWD"'
 alias work="nano ~/Desktop/turboterm/.TurboTerm"
 alias makeprod='cp ~/Desktop/turboterm/.TurboTerm ~/.TurboTerm'
+alias xx="exit"
 
 ###Welcome Screen
 clear
